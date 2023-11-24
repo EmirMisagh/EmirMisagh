@@ -15,17 +15,17 @@
      <img
         src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1706140800&v=beta&t=mOb7-JUMBVJ-wHERbKcvVV76rHzd2ryS2wwKGpAn2rA"
         alt="Coder GIF"
-        height="480"
+        height="400"
         width="100%"
         data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
         data-target="animated-image.originalImage"
       />
   </div>
 </div>
-    <table cellspacing="0" cellpadding="0" border="0" >
-      <tr>
-        <td valign="top">
-             <h3>About Me</h3>
+    <div class="d-flex bg-danger" style="display: flex;
+    align-items: center;">
+      <div>
+        <h3>About Me</h3>
         <h4 style="width: 10%; color:red;">
           - 👋 Hi, I’m @EmirMisagh from Iran <br />
           - 👀 I’m interested in Javascript <br />
@@ -33,41 +33,8 @@
           - 💞️ I’m looking to collaborate on Company<br />
           - 📫 How to reach me by email "misagh.amir@yahoo.com"
         </h4>
-        </td>
-    <td valign="top">
-     <img
-        src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1706140800&v=beta&t=mOb7-JUMBVJ-wHERbKcvVV76rHzd2ryS2wwKGpAn2rA"
-        alt="Coder GIF"
-        height="280"
-        width="400px"
-        data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-        data-target="animated-image.originalImage"
-      />
-    </td>
-  </tr>
-</table>
-    <div class="d-flex bg-danger" style="display: flex;
-    align-items: center;">
-      <div>
-        <h3>About Me</h3>
-        <h4 style="width: 10%; color:red;">
-          - 👋 Hi, I’m @EmirMisagh from Iran 
-          - 👀 I’m interested in Javascript 
-          - 🌱 I’m currently learning React,Vue,Nodejs 
-          - 💞️ I’m looking to collaborate on Company
-          - 📫 How to reach me by email "misagh.amir@yahoo.com"
-        </h4>
       </div>
-      <img
-        src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1706140800&v=beta&t=mOb7-JUMBVJ-wHERbKcvVV76rHzd2ryS2wwKGpAn2rA"
-        alt="Coder GIF"
-        height="280"
-        width="300px"
-        data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-        data-target="animated-image.originalImage"
-      />
     </div>
-    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="600px" />
     <div>
       <h3 dir="auto">Languages and Tools 🛠 :</h3>
       <div>
