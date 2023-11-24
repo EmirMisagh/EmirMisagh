@@ -13,9 +13,9 @@
     <div align="center">
   <div style="display: flex;">
      <img
-        src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1706140800&v=beta&t=mOb7-JUMBVJ-wHERbKcvVV76rHzd2ryS2wwKGpAn2rA"
+        src="https://user-images.githubusercontent.com/110089830/276761875-1c4094fa-5656-45d3-9aca-2b1101401ae6.gif"
         alt="Coder GIF"
-        height="400"
+        height="380"
         width="100%"
         data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
         data-target="animated-image.originalImage"
