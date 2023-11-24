@@ -7,11 +7,7 @@
   </head>
   
   <body>
-    <div>
-      <h2>Hello! 👋 My Name is Amir Misagh, Welcome To My Github Profile ♥</h2>
-    </div>
-    <div align="center">
-  <div style="display: flex;">
+      <div style="display: flex;">
      <img
         src="https://user-images.githubusercontent.com/110089830/276761875-1c4094fa-5656-45d3-9aca-2b1101401ae6.gif"
         alt="Coder GIF"
@@ -21,6 +17,11 @@
         data-target="animated-image.originalImage"
       />
   </div>
+    <div>
+      <h2>Hello! 👋 My Name is Amir Misagh, Welcome To My Github Profile ♥</h2>
+    </div>
+    <div align="center">
+
 </div>
     <div class="d-flex bg-danger" style="display: flex;
     align-items: center;">
