@@ -26,11 +26,12 @@
         src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1706140800&v=beta&t=mOb7-JUMBVJ-wHERbKcvVV76rHzd2ryS2wwKGpAn2rA"
         alt="Coder GIF"
         height="280"
+        width="300px"
         data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
         data-target="animated-image.originalImage"
       />
     </div>
-    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
+    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="600px" />
     <div>
       <h3 dir="auto">Languages and Tools 🛠 :</h3>
       <div>
@@ -94,7 +95,7 @@
             alt="typescript"
             data-canonical-src="https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&amp;logo=typescript&amp;logoColor=ffffff"
             style="max-width: 100%"
-        /></a>
+        /></a><br />
         <a
           target="_blank"
           rel="noopener noreferrer nofollow"
@@ -146,17 +147,17 @@
             style="max-width: 100%"
         /></a>
     </div>
-    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="600px">
       <h3 dir="auto"> 
         I’m currently learning</h3>
         <div>
             <a href="https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
             <a href="https://www.facebook.com/DevAmr74/" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="FaceBook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
-            <a href="https://www.instagram.com/amr.sayed74/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+            <a href="https://www.instagram.com/amr.sayed74/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a><br />
             <a href="https://twitter.com/Amr_ElSsyed" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
             <a href="https://api.whatsapp.com/send?phone=01005074554" rel="nofollow"><img src="https://camo.githubusercontent.com/868cea00033f8449987958133dabbd83030c40c55a0823a9bd0dc3628180ed85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174736170702d3037356535343f7374796c653d666f722d7468652d6261646765266c6f676f3d5768617473617070266c6f676f436f6c6f723d7768697465" alt="Whatsapp" data-canonical-src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&amp;logo=Whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
         </div>
-    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="600px">
     </div>
   </body>
 </html>
